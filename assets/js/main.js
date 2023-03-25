@@ -1,6 +1,6 @@
 // acessando o arquivo json
 async function fetchProfileData() {
-    const url = 'https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/projeto-base/data/profile.json';
+    const url = 'https://raw.githubusercontent.com/NallyNik/dio-js-developer-portfolio/projeto-base/data/profile.json';
     const response = await fetch(url)
     const profileData = await response.json()
     return profileData
@@ -32,12 +32,12 @@ function updateProfileInfo(profileData) {
 
 function updateSoftSkills(profileData) {
     const softSkills = document.getElementById('softSkills')
-    softSkills.innerHTML = profileData.softSkills.map(skill => `<li>${skill}</li>`).join('')
+    softSkills.innerHTML = profileData.skill.softSkills.map(skill => `<li>${skill}</li>`).join('')
 }
 
 function updateHardSkills(profileData) {
     const hardSkills = document.getElementById('hardSkills')
-    hardSkills.innerHTML = profileData.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
+    hardSkills.innerHTML = profileData.skill.hardSkills.map(skill => `<li><img src="${skill.logo}" alt="${skill.name}" title="${skill.name}"></li>`).join('')
 }
 
 function updateLanguages(profileData) {
@@ -59,7 +59,7 @@ function updatePortfolio(profileData) {
 
 function updateProfessionalExperience(profileData) {
     const professionalExperience = document.getElementById('professionalExperience')
-    professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
+    professionalExperience.innerHTML = profileData.experience.map(experience => {
         return `
             <li>
                 <h3 class="title">${experience.name}</h3>

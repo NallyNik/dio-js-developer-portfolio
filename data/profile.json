@@ -1,22 +1,22 @@
 {
-  "nome": "Anahita Reis Monezi",
-  "foto": "https://avatars.githubusercontent.com/u/109434062?v=4",
-  "titulo": "frontend Developer",
-  "localidade": "Curitiba - PR",
-  "telefone": "(41) 98887 4090",
+  "name": "Anahita Reis Monezi",
+  "photo": "https://avatars.githubusercontent.com/u/109434062?v=4",
+  "job": "frontend Developer",
+  "location": "Curitiba - PR",
+  "phone": "(41) 98887 4090",
   "email": "anahita.reis.m@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Html",
+        "name": "Html",
         "logo": "https://academiapme-my.sharepoint.com/personal/renato_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG%2FAtivo%204%5F1%404x%2Epng&parent=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG"
       },
       {
-        "nome": "CSS",
+        "name": "CSS",
         "logo": "https://academiapme-my.sharepoint.com/personal/renato_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG%2FAtivo%203%5F1%404x%2Epng&parent=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG"
       },
       {
-        "nome": "JavaScript",
+        "name": "JavaScript",
         "logo": "https://academiapme-my.sharepoint.com/personal/renato_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG%2FAtivo%2016%404x%2Epng&parent=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG"
       }
     ],
@@ -26,27 +26,27 @@
       "Responsabilidade"
     ]
   },
-  "idiomas": [
+  "languages": [
     "Português (Nativo)",
     "Inglês (Intermediário)"
   ],
   "portfolio": [
     {
-      "nome": "Hundle landing page with curved sections",
+      "name": "Hundle landing page with curved sections",
       "url": "https://github.com/NallyNik/fm-huddle-landing-page-with-curved-sections",
       "github": true
     },
     {
-      "nome": "Fylo landing page with two column layout",
+      "name": "Fylo landing page with two column layout",
       "url": "https://github.com/NallyNik/fm-fylo-landing-page-with-two-column-layout",
       "github": true
     }
   ],
-  "experiencias": [
+  "experience": [
     {
-      "nome": "",
-      "periodo": "",
-      "descricao": ""
+      "name": "",
+      "period": "",
+      "description": ""
     }
   ]
 }
