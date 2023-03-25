@@ -8,16 +8,12 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Html",
-        "logo": "https://academiapme-my.sharepoint.com/personal/renato_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG%2FAtivo%204%5F1%404x%2Epng&parent=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG"
-      },
-      {
-        "name": "CSS",
-        "logo": "https://academiapme-my.sharepoint.com/personal/renato_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG%2FAtivo%203%5F1%404x%2Epng&parent=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG"
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/NallyNik/dio-js-developer-portfolio/projeto-base/assets/img/icons/tools/git.svg"
       },
       {
         "name": "JavaScript",
-        "logo": "https://academiapme-my.sharepoint.com/personal/renato_dio_me/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG%2FAtivo%2016%404x%2Epng&parent=%2Fpersonal%2Frenato%5Fdio%5Fme%2FDocuments%2FDigital%20Innovation%20One%2Fslides%20aulas%20diversas%2FTrilhas%2FJavaScript%2Fm04%2FLogosTecnologias%5FPNG"
+        "logo": "https://raw.githubusercontent.com/NallyNik/dio-js-developer-portfolio/projeto-base/assets/img/icons/tools/js.svg"
       }
     ],
     "softSkills": [
